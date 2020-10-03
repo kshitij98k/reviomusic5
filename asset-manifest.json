@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reviomusic5/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/reviomusic5/static/js/main.83b37fa5.chunk.js",
+    "main.js.map": "/reviomusic5/static/js/main.83b37fa5.chunk.js.map",
+    "runtime-main.js": "/reviomusic5/static/js/runtime-main.ce7598f9.js",
+    "runtime-main.js.map": "/reviomusic5/static/js/runtime-main.ce7598f9.js.map",
+    "static/css/2.4707e12a.chunk.css": "/reviomusic5/static/css/2.4707e12a.chunk.css",
+    "static/js/2.83ea9789.chunk.js": "/reviomusic5/static/js/2.83ea9789.chunk.js",
+    "static/js/2.83ea9789.chunk.js.map": "/reviomusic5/static/js/2.83ea9789.chunk.js.map",
+    "index.html": "/reviomusic5/index.html",
+    "precache-manifest.a535312c9779d3c2513c8d060d94575d.js": "/reviomusic5/precache-manifest.a535312c9779d3c2513c8d060d94575d.js",
+    "service-worker.js": "/reviomusic5/service-worker.js",
+    "static/css/2.4707e12a.chunk.css.map": "/reviomusic5/static/css/2.4707e12a.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/reviomusic5/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.83ea9789.chunk.js.LICENSE.txt": "/reviomusic5/static/js/2.83ea9789.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce7598f9.js",
+    "static/css/2.4707e12a.chunk.css",
+    "static/js/2.83ea9789.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.83b37fa5.chunk.js"
+  ]
+}
